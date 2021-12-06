@@ -1,0 +1,3 @@
+1001,nguyen van A ,BTEC D01 K12,Ha Noi
+1002, nguyen van B, BTEC D01 K12,Ha giang 
+1003,nguyen van C, BTEC D01 K12,Ho Chi Minh
